@@ -1,0 +1,13 @@
+{"video": "vtest.avi", "sec": 79.5, "proc_fps": 19.6, "people_final": {"지나감": 6}, "transitions": {"지나감": 6}, "model_final": {}}
+{"video": "mk4519_idle_students_walking.mp4", "sec": 20.1, "proc_fps": 14.1, "people_final": {"머무름": 5}, "transitions": {"지나감": 13, "머무름": 15}, "model_final": {}}
+{"video": "mk25890_idle_people_walking.mp4", "sec": 10.3, "proc_fps": 11.8, "people_final": {"지나감": 3}, "transitions": {"지나감": 3}, "model_final": {}}
+{"video": "mk460_idle_standing_woman.mp4", "sec": 10.1, "proc_fps": 12.9, "people_final": {"머무름": 1}, "transitions": {"머무름": 1}, "model_final": {}}
+{"video": "mk46711_idle_standing_man_rain.mp4", "sec": 12.9, "proc_fps": 12.9, "people_final": {"관심 있음": 1}, "transitions": {"지나감": 1, "관심 있음": 1}, "model_final": {}}
+{"video": "mk28329_idle_students_wall.mp4", "sec": 21.2, "proc_fps": 13.9, "people_final": {"관심 있음": 2}, "transitions": {"관심 있음": 2, "머무름": 2}, "model_final": {}}
+{"video": "mk28302_arms_crossed_man_green.mp4", "sec": 11.0, "proc_fps": 12.6, "people_final": {"관심 있음": 1}, "transitions": {"관심 있음": 2}, "model_final": {}}
+{"video": "mk29963_arms_crossed_woman_livingroom.mp4", "sec": 19.0, "proc_fps": 14.5, "people_final": {"관심 있음": 1}, "transitions": {"관심 있음": 1}, "model_final": {}}
+{"video": "mk11653_arms_crossed_woman_standing.mp4", "sec": 6.7, "proc_fps": 10.9, "people_final": {"관심 있음": 1}, "transitions": {"관심 있음": 1}, "model_final": {}}
+{"video": "mk43822_clap_proud_man.mp4", "sec": 4.3, "proc_fps": 8.6, "people_final": {"관심 있음": 1}, "transitions": {"관심 있음": 1}, "model_final": {}}
+{"video": "wave_example.webm", "sec": 5.2, "proc_fps": 9.8, "people_final": {"관심 있음": 3}, "transitions": {"지나감": 1, "힐끗 봄": 2, "관심 있음": 3}, "model_final": {}}
+{"video": "mk48998_wave_elderly_couple.mp4", "sec": 8.9, "proc_fps": 12.7, "people_final": {"관심 있음": 2}, "transitions": {"관심 있음": 2}, "model_final": {}}
+{"video": "e1_s3_v1.avi", "sec": 3.5, "proc_fps": 10.6, "people_final": {"관심 있음": 1}, "transitions": {"관심 있음": 1}, "model_final": {}}

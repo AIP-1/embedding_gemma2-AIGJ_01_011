@@ -1,0 +1,6 @@
+{"video": "mk23085_clap_office.mp4", "loops": 2, "fps": 13.4, "counts": {"손흔들기": 2}, "events": [["#5", "손흔들기"], ["#5", "손흔들기"]]}
+{"video": "mk36153_clap_standing_meeting.mp4", "loops": 2, "fps": 13.0, "counts": {"손흔들기": 3}, "events": [["#3", "손흔들기"], ["#4", "손흔들기"], ["#3", "손흔들기"]]}
+{"video": "handshake_tv.ogv", "loops": 2, "fps": 23.4, "counts": {"손흔들기": 4, "한팔들기": 1}, "events": [["#30", "한팔들기"], ["#29", "손흔들기"], ["#29", "손흔들기"], ["#11", "손흔들기"], ["#11", "손흔들기"]]}
+{"video": "mk49419_hs_yacht.mp4", "loops": 2, "fps": 15.0, "counts": {}, "events": []}
+{"video": "mk25253_hs_welcoming_partner.mp4", "loops": 2, "fps": 14.4, "counts": {}, "events": []}
+{"video": "mk48998_wave_elderly_couple.mp4", "loops": 2, "fps": 14.2, "counts": {"손흔들기": 7}, "events": [["#2", "손흔들기"], ["#2", "손흔들기"], ["#2", "손흔들기"], ["#2", "손흔들기"], ["#2", "손흔들기"], ["#2", "손흔들기"], ["#2", "손흔들기"]]}

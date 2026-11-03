@@ -1,0 +1,15 @@
+# 개선판으로 바꾸기 전 8011 화면 (2026-10-26 14:4x)
+tmux new -d -s eg2vid "cd ~/eg2-lab && source ~/eg2/bin/activate && python video_stream.py media/pose/jumping_jacks_burpees.webm media/pose/handshake_tv.ogv 2>&1 | tee -a video_stream.log"
+tmux new -d -s eg2pose "cd ~/eg2-lab && source ~/eg2/bin/activate && python pose_app.py --raw --port 8011 --cam http://127.0.0.1:8096/stream 2>&1 | tee -a pose_raw_video.log"
+
+# 손흔들기 v3로 바꾸기 전 8011 화면 (2026-10-26 16:4x)
+tmux new -d -s eg2vid "cd ~/eg2-lab && source ~/eg2/bin/activate && python video_stream.py media/pose/mixkit/mk33479_waving_two_boys.mp4 media/pose/jumping_jacks_burpees.webm media/pose/handshake_tv.ogv 2>&1 | tee -a video_stream.log"
+tmux new -d -s eg2pose "cd ~/eg2-lab && source ~/eg2/bin/activate && python pose_app_v2.py --low-wave --port 8011 --cam http://127.0.0.1:8096/stream 2>&1 | tee -a pose_v2_video.log"
+
+# 악수 v4로 바꾸기 전 8011 화면 (2026-10-26 17:0x, 10-27 실험 동안 꺼 둠)
+tmux new -d -s eg2vid "cd ~/eg2-lab && source ~/eg2/bin/activate && python video_stream.py media/pose/mixkit/mk46150_wave_man_couch.mp4 media/pose/wvu/e4_s3_v1.avi media/pose/wvu/e4_s3_v3.avi media/pose/mixkit/mk48998_wave_elderly_couple.mp4 media/pose/mixkit/mk23085_clap_office.mp4 2>&1 | tee -a video_stream.log"
+tmux new -d -s eg2pose "cd ~/eg2-lab && source ~/eg2/bin/activate && python pose_app_v3.py --port 8011 --cam http://127.0.0.1:8096/stream 2>&1 | grep --line-buffered -v half >> pose_v3_video.log"
+
+# 정확도 개선 2차 실험 전 8011 화면 (2026-10-27 11:30, 실험 동안 꺼 둠)
+tmux new -d -s eg2vid "cd ~/eg2-lab && source ~/eg2/bin/activate && python video_stream.py media/pose/mixkit/mk23085_clap_office.mp4 media/pose/handshake_tv.ogv media/pose/mixkit/mk48998_wave_elderly_couple.mp4 media/pose/wvu/e4_s3_v3.avi 2>&1 | tee -a video_stream.log"
+tmux new -d -s eg2pose "cd ~/eg2-lab && source ~/eg2/bin/activate && python pose_app_v4.py --port 8011 --cam http://127.0.0.1:8096/stream 2>&1 | grep --line-buffered -v half >> pose_v4_video.log"

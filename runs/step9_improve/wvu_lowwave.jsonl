@@ -1,0 +1,48 @@
+{"video": "e1_s1_v1.avi", "sec": 3.5, "fps": 7.5, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "e1_s1_v2.avi", "sec": 3.5, "fps": 16.7, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "e1_s1_v3.avi", "sec": 3.5, "fps": 16.2, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "e1_s1_v7.avi", "sec": 3.5, "fps": 15.9, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "e1_s2_v1.avi", "sec": 3.5, "fps": 16.2, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "e1_s2_v2.avi", "sec": 3.5, "fps": 16.5, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "e1_s2_v3.avi", "sec": 3.5, "fps": 15.5, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "e1_s2_v7.avi", "sec": 3.5, "fps": 16.7, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "e1_s3_v1.avi", "sec": 3.5, "fps": 16.6, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "e1_s3_v2.avi", "sec": 3.5, "fps": 17.0, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "e1_s3_v3.avi", "sec": 3.5, "fps": 16.5, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "e1_s3_v7.avi", "sec": 3.5, "fps": 16.7, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "e3_s1_v1.avi", "sec": 3.5, "fps": 7.9, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "e3_s1_v2.avi", "sec": 3.5, "fps": 17.8, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "e3_s1_v3.avi", "sec": 3.5, "fps": 16.8, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "e3_s1_v7.avi", "sec": 3.5, "fps": 16.8, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "e3_s2_v1.avi", "sec": 3.5, "fps": 17.3, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "e3_s2_v2.avi", "sec": 3.5, "fps": 17.4, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "e3_s2_v3.avi", "sec": 3.5, "fps": 15.6, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "e3_s2_v7.avi", "sec": 3.5, "fps": 16.6, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "e3_s3_v1.avi", "sec": 3.5, "fps": 16.9, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "e3_s3_v2.avi", "sec": 3.5, "fps": 17.3, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "e3_s3_v3.avi", "sec": 3.5, "fps": 16.4, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "e3_s3_v7.avi", "sec": 3.5, "fps": 16.3, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "e4_s1_v1.avi", "sec": 3.5, "fps": 7.8, "low_wave": true, "counts": {"v1": {"한팔들기": 1, "손흔들기": 1}, "v2": {"손흔들기": 1}}}
+{"video": "e4_s1_v2.avi", "sec": 3.5, "fps": 16.8, "low_wave": true, "counts": {"v1": {"한팔들기": 1, "손흔들기": 1}, "v2": {"손흔들기": 1}}}
+{"video": "e4_s1_v3.avi", "sec": 3.5, "fps": 16.8, "low_wave": true, "counts": {"v1": {"한팔들기": 1, "손흔들기": 1}, "v2": {"한팔들기": 1}}}
+{"video": "e4_s1_v7.avi", "sec": 3.5, "fps": 17.0, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "e4_s2_v1.avi", "sec": 3.5, "fps": 16.6, "low_wave": true, "counts": {"v1": {"한팔들기": 1, "손흔들기": 1}, "v2": {"손흔들기": 1}}}
+{"video": "e4_s2_v2.avi", "sec": 3.5, "fps": 16.8, "low_wave": true, "counts": {"v1": {"한팔들기": 1, "손흔들기": 1}, "v2": {"한팔들기": 1, "손흔들기": 1}}}
+{"video": "e4_s2_v3.avi", "sec": 3.5, "fps": 15.3, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "e4_s2_v7.avi", "sec": 3.5, "fps": 16.3, "low_wave": true, "counts": {"v1": {"한팔들기": 1, "손흔들기": 1}, "v2": {"한팔들기": 1}}}
+{"video": "e4_s3_v1.avi", "sec": 3.5, "fps": 16.5, "low_wave": true, "counts": {"v1": {"한팔들기": 1, "손흔들기": 1}, "v2": {"손흔들기": 1}}}
+{"video": "e4_s3_v2.avi", "sec": 3.5, "fps": 15.9, "low_wave": true, "counts": {"v1": {"한팔들기": 1, "손흔들기": 1}, "v2": {"손흔들기": 1}}}
+{"video": "e4_s3_v3.avi", "sec": 3.5, "fps": 16.6, "low_wave": true, "counts": {"v1": {"손흔들기": 1}, "v2": {"손흔들기": 1}}}
+{"video": "e4_s3_v7.avi", "sec": 3.5, "fps": 16.8, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "e5_s1_v1.avi", "sec": 3.5, "fps": 7.8, "low_wave": true, "counts": {"v1": {"만세": 1}, "v2": {"만세": 1}}}
+{"video": "e5_s1_v2.avi", "sec": 3.5, "fps": 17.3, "low_wave": true, "counts": {"v1": {"만세": 1}, "v2": {"만세": 1}}}
+{"video": "e5_s1_v3.avi", "sec": 3.5, "fps": 17.0, "low_wave": true, "counts": {"v1": {"만세": 1}, "v2": {"만세": 1}}}
+{"video": "e5_s1_v7.avi", "sec": 3.5, "fps": 17.1, "low_wave": true, "counts": {"v1": {"만세": 1}, "v2": {"만세": 1}}}
+{"video": "e5_s2_v1.avi", "sec": 3.5, "fps": 17.1, "low_wave": true, "counts": {"v1": {"만세": 1}, "v2": {"만세": 1}}}
+{"video": "e5_s2_v2.avi", "sec": 3.5, "fps": 16.6, "low_wave": true, "counts": {"v1": {"만세": 1}, "v2": {"만세": 1}}}
+{"video": "e5_s2_v3.avi", "sec": 3.5, "fps": 15.7, "low_wave": true, "counts": {"v1": {"만세": 1}, "v2": {"만세": 1}}}
+{"video": "e5_s2_v7.avi", "sec": 3.5, "fps": 16.9, "low_wave": true, "counts": {"v1": {"만세": 2, "손흔들기": 2}, "v2": {"손흔들기": 1}}}
+{"video": "e5_s3_v1.avi", "sec": 3.5, "fps": 17.2, "low_wave": true, "counts": {"v1": {"만세": 1}, "v2": {"손흔들기": 1}}}
+{"video": "e5_s3_v2.avi", "sec": 3.5, "fps": 16.7, "low_wave": true, "counts": {"v1": {"만세": 1}, "v2": {"손흔들기": 1}}}
+{"video": "e5_s3_v3.avi", "sec": 3.5, "fps": 16.6, "low_wave": true, "counts": {"v1": {"손흔들기": 1}, "v2": {"손흔들기": 1}}}
+{"video": "e5_s3_v7.avi", "sec": 3.5, "fps": 16.8, "low_wave": true, "counts": {"v1": {"손흔들기": 1}, "v2": {"한팔들기": 1}}}

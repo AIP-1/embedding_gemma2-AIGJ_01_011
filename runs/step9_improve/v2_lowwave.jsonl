@@ -1,0 +1,10 @@
+{"video": "wave_example.webm", "sec": 5.2, "fps": 10.3, "low_wave": true, "counts": {"v1": {}, "v2": {"손흔들기": 3}}}
+{"video": "children_waving.webm", "sec": 44.1, "fps": 16.6, "low_wave": true, "counts": {"v1": {"악수": 5, "한팔들기": 7, "손흔들기": 2}, "v2": {"한팔들기": 7, "손흔들기": 1}}}
+{"video": "mk33479_waving_two_boys.mp4", "sec": 12.7, "fps": 13.5, "low_wave": true, "counts": {"v1": {"한팔들기": 20, "손흔들기": 17}, "v2": {"손흔들기": 2, "한팔들기": 1}}}
+{"video": "mk48998_wave_elderly_couple.mp4", "sec": 8.9, "fps": 14.9, "low_wave": true, "counts": {"v1": {"악수": 1}, "v2": {"손흔들기": 1}}}
+{"video": "mk6389_wave_through_window.mp4", "sec": 9.7, "fps": 13.7, "low_wave": true, "counts": {"v1": {"손흔들기": 2, "한팔들기": 1}, "v2": {"손흔들기": 2}}}
+{"video": "mk28302_arms_crossed_man_green.mp4", "sec": 11.0, "fps": 13.5, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "mk29963_arms_crossed_woman_livingroom.mp4", "sec": 19.0, "fps": 15.1, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "clapping_nhs.webm", "sec": 32.7, "fps": 16.1, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "mk24214_clap_conference.mp4", "sec": 18.6, "fps": 14.4, "low_wave": true, "counts": {"v1": {}, "v2": {}}}
+{"video": "vtest.avi", "sec": 79.5, "fps": 17.4, "low_wave": true, "counts": {"v1": {}, "v2": {}}}

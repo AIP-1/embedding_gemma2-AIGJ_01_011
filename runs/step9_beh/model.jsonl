@@ -1,0 +1,4 @@
+{"video": "vtest.avi", "sec": 79.5, "proc_fps": 19.6, "people_final": {"지나감": 6}, "transitions": {"지나감": 6}, "model_final": {}}
+{"video": "mk460_idle_standing_woman.mp4", "sec": 10.1, "proc_fps": 12.9, "people_final": {"머무름": 1}, "transitions": {"머무름": 1}, "model_final": {}}
+{"video": "mk29963_arms_crossed_woman_livingroom.mp4", "sec": 19.0, "proc_fps": 14.0, "people_final": {"관심 있음": 1}, "transitions": {"관심 있음": 1}, "model_final": {}}
+{"video": "mk48998_wave_elderly_couple.mp4", "sec": 8.9, "proc_fps": 12.3, "people_final": {"관심 있음": 2}, "transitions": {"관심 있음": 2}, "model_final": {}}

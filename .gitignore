@@ -1,0 +1,17 @@
+.env
+*.env
+.cam.env
+.ipcam
+models/
+data/
+media/
+crops/
+*.pt
+*.ts
+*.safetensors
+*.jpg
+*.png
+*.mp4
+*.avi
+*.webm
+__pycache__/
